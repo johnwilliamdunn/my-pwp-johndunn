@@ -7,7 +7,7 @@
 		<br>
 		<h1>Purpose</h1>
 		<ul>
-			<li>The purpose of my website is to provide a portal for our out of state family to see pictures and stories aobut the granddog Lucy.</li>
+			<li>The purpose of my website is to provide a portal for our out of state family to see pictures and stories about the grand dog Lucy.</li>
 		</ul>
 		<h1>Audience</h1>
 		<ul>
@@ -15,7 +15,7 @@
 		</ul>
 		<h1>Goal</h1>
 		<ul>
-			<li>My goal is to provide a gallery to entertain and inform our family about our aging Chihuahua.</li>
+			<li>My goal is to provide a gallery to entertain and inform our family about our aging Rescue Chihuahua.</li>
 		</ul>
 		<h1>Persona</h1>
 		<ul>
