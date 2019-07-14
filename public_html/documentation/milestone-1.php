@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<body>
-		<h1>My PWP JOHN DUNN</h1>
+		<h1>MY PWP JOHN DUNN</h1>
 		<br>
 		<h1>Purpose</h1>
 		<ul>
