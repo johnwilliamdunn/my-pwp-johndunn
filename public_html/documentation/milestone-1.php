@@ -19,7 +19,7 @@
 			<li>My goal is to provide a gallery to entertain and inform our family about our aging Rescue Chihuahua.</li>
 		</ul>
 		<h2>Persona One Grandmother</h2>
-		<img src="grandmother.jpg" alt="Becky Benedict" width="250" height="250">
+		<img src="grandmother.jpg" alt="Becky Benedict" width="350" height="350">
 		<ul>
 			<li>Becky Benedict-Grandmother</li>
 			<li>Becky is 62 years old and has suffered a traumatic brain injury leaving her unable to work or drive on her own. As a result she is home bound unless someone can driver her.</li>
@@ -29,7 +29,7 @@
 			<li>My overarching goal for the site is to bring some happiness and a sense of closeness that she is lacking from her proximity to her daughter by providing these updates.</li>
 			</ul>
 		<h2>Persona Two Sister</h2>
-		<img src="IMG_0598.jpeg" alt="Renea">
+		<img src="renea.jpg" alt="Renea">
 			<ul>
 		<li>Sister Renea is a busy teacher who does not get to see us very ofter, she loves the dog and wants a way to keep up with her.</li>
 		<li>She is 50 years old and is a librarian at a public school in Arlington, TX. She likes to travel but doesn't get to New Mexico often.</li>
