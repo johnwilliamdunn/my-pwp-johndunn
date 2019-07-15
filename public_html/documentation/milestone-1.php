@@ -19,6 +19,7 @@
 			<li>My goal is to provide a gallery to entertain and inform our family about our aging Rescue Chihuahua.</li>
 		</ul>
 		<h1>Persona</h1>
+		<img src="grandmother.jpg" alt="Becky Benedict" width="128" height="128">
 		<ul>
 			<li>Becky Benedict-Grandmother</li>
 			<li>Becky is 62 years old and has suffered a traumatic brain injury leaving her unable to work or drive on her own. As a result she is home bound unless someone can driver her.</li>
