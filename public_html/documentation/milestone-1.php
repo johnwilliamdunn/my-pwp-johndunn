@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang=en>
 	<head>
+		<title>My PWP John Dunn</title>
 		<meta charset="UTF-8">
 		<body>
 		<h1>MY PWP JOHN DUNN</h1>
