@@ -38,7 +38,7 @@
 		<li>She recently lost her dog and has not been able to get another, they have been busy beginning to build a house in another state</li>
 		<li>My goal for her for this site is to give her a place to see Lucy and have a smile at her lazy way of life</li>
 		</ul>
+		</head>
 	</body>
-	</head>
 </html>
 
