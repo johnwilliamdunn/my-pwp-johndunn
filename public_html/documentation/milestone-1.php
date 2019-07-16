@@ -18,7 +18,7 @@
 		<ul>
 			<li>My goal is to provide a gallery to entertain and inform our family about our aging Rescue Chihuahua.</li>
 		</ul>
-		<h2>Persona One Grandmother</h2>
+		<h2>Persona One: Grandmother</h2>
 		<img src="grandmother.jpg" alt="Becky Benedict" width="350" height="350">
 		<ul>
 			<li>Becky Benedict-Grandmother</li>
@@ -28,7 +28,7 @@
 			<li>Becky's brain injury has left her with a failing memory so she will need to bookmark the site to be able to return to it often since it will be outside of the Facebook framework she is used to.</li>
 			<li>My overarching goal for the site is to bring some happiness and a sense of closeness that she is lacking from her proximity to her daughter by providing these updates.</li>
 			</ul>
-		<h2>Persona Two Sister</h2>
+		<h2>Persona Two: Sister</h2>
 		<img src="renea.jpg" alt="Renea" width="350" height="350">
 			<ul>
 		<li>Sister Renea is a busy teacher who does not get to see us very ofter, she loves the dog and wants a way to keep up with her.</li>
