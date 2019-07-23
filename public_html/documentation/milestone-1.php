@@ -46,7 +46,7 @@
 		<h2>Persona Two: Sister</h2>
 		<img src="renea.jpg" alt="Renea" width="350" height="350">
 		<ul>
-			<li>Sister Renea is a busy teacher who does not get to see us very ofter, she loves the dog and wants a way to
+			<li>Sister Renea is a busy teacher who does not get to see us very often, she loves the dog and wants a way to
 				keep up with her.
 			</li>
 			<li>She is 50 years old and is a librarian at a public school in Arlington, TX. She likes to travel but doesn't
