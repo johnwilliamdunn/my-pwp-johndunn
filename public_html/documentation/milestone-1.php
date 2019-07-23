@@ -53,7 +53,7 @@
 				get to New Mexico often.
 			</li>
 			<li>Renea is tech savvy and has a Windows computer that she works on at least 50 hours a week. She consumes
-				most of her web content on this machine.
+				most of her web content on this device.
 			</li>
 			<li>She also has an Android phone and a tablet to browse pictures but does not get cell service in her house
 				which makes sending pictures via text message difficult
