@@ -14,7 +14,7 @@
 			<div>
 				<h2>About Me</h2>
 			</div>
-		<ul>
+
 			<p>I am a stay at home dog that likes long walks at the park, eating cat poop, and barking at the mailman.
 			I was born in the harsh lands of Southern New Mexico and lived the life of a wild Southern Chihuahua.
 			I was found on the side of the road by a benevolent stranger who picked me up and took me into a kennel where I healed up and got stronger.
@@ -24,12 +24,14 @@
 			After being at Lapdog Rescue for over a year these Texans called named the Dunn's, they said they wanted to adopt me.
 			If you ask the Dunn's they didn't know I was a Chihuahua, they thought I was some kind of terrier, suckers!
 			</p>
-			<div>
+		<img src="images/Lu.jpg" alt = "Lucy at rest";
 				<p>After I went to their tiny house the big surprise was I am a Chihuahua! It tuns out my predecessor was also a Chiweenie so they had some experience with my kind.
 					But I'm a purebred, desert dog, where my predecessor was just a normal junkyard dog. As you can see I am far superior in my begging skills.
 					I hope you enjoy keeping up with my adventures!
 				</p>
 
+	</body>
+</html>
 
 
 
