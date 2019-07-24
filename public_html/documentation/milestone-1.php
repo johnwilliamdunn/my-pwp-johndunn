@@ -24,7 +24,7 @@
 			<li>My goal is to provide a gallery to entertain and inform our family about our aging Rescue Chihuahua.</li>
 		</ul>
 		<h2>Persona One: Grandmother</h2>
-		<img src="grandmother.jpg" alt="Becky Benedict" width="350" height="350">
+		<img src="images/grandmother.jpg" alt="Becky Benedict" width="350" height="350">
 		<ul>
 			<li>Becky Benedict-Grandmother</li>
 			<li>Becky is 62 years old and has suffered a traumatic brain injury leaving her unable to work or drive on her
@@ -44,7 +44,7 @@
 			</li>
 		</ul>
 		<h2>Persona Two: Sister</h2>
-		<img src="renea.jpg" alt="Renea" width="350" height="350">
+		<img src="images/renea.jpg" alt="Renea" width="350" height="350">
 		<ul>
 			<li>Sister Renea is a busy teacher who does not get to see us very often, she loves the dog and wants a way to
 				keep up with her.
