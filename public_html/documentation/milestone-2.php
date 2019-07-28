@@ -19,7 +19,7 @@
 				what sections after that
 				contact form section
 			</p>
-		<img src="images/Lu.jpg" alt = "Lucy at rest";
+		<img src="Lucy.jpg" alt = "Lucy at rest";
 				<p>
 				</p>
 
