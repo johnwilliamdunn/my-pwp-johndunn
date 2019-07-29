@@ -9,24 +9,32 @@
 		<br>
 		<h2>Content Strategy</h2>
 		<ul>
-			<li>This site will be on one page providing my dog with an outlet on the internet to reach her relatives in Texas. I will have some text introducing folks to Lucy and her life of leisure.</li>
+			<li>This site will be on one page providing my dog with an outlet on the internet to reach her relatives in
+				Texas. I will have some text introducing folks to Lucy and her life of leisure.
+			</li>
 		</ul>
-			<div>
-				<h2>About Me</h2>
-				<ul>
-					<li>Section one will be a paragraph about Lucy's daily life and will be in tone playful and an introduction to the lapdog life</li>
-				</ul>
-			</div>
 
-			<h2>Gallery</h2>
+		<h2>About Me</h2>
 		<ul>
-			<li>Section 2 will be a scrollable gallery that can be scaled from mobile to desktop. The gallery will include 4 still photos and 2 gifs or loops showing movement.</li>
+			<li>Section one will be a paragraph about Lucy's daily life and will be in tone playful and an introduction
+				to the lapdog life
+			</li>
 		</ul>
-			<h2>Contact Me</h2>
+
+		<h2>Gallery</h2>
 		<ul>
-			<li>Section 3 will be the contact me form section. This will include a name, email, subject and message fields within the form.</li>
+			<li>Section 2 will be a scrollable gallery that can be scaled from mobile to desktop. The gallery will include
+				4 still photos and 2 gifs or loops showing movement.
+			</li>
 		</ul>
-		<img src="Lucy.jpg" alt = "Lucy at rest">
+		<h2>Contact Me</h2>
+		<ul>
+			<li>Section 3 will be the contact me form section. This will include a name, email, subject and message fields
+				within the form.
+			</li>
+		</ul>
+		<img src="images/PWP.png" alt="Wireframes">
+		<img src="images/PWPmobile.png" alt="Mobile Wireframe">
 
 	</body>
 </html>
