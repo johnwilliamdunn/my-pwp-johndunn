@@ -14,17 +14,17 @@
 			<div>
 				<h2>About Me</h2>
 				<ul>
-					<li>Section one will be about Lucy and will be a title to the page</li>
+					<li>Section one will be a paragraph about Lucy's daily life and will be in tone playful and an introduction to the lapdog life</li>
 				</ul>
 			</div>
 
 			<h2>Section 2</h2>
 		<ul>
-			<li>Section 2 will be a scrollable gallery that can be scaled from mobile to desktop</li>
+			<li>Section 2 will be a scrollable gallery that can be scaled from mobile to desktop. The gallery will include 4 still photos and 2 gifs or loops showing movement.</li>
 		</ul>
 			<h2>Section 3</h2>
 		<ul>
-			<li>Section 3 will be the contact me form section</li>
+			<li>Section 3 will be the contact me form section. This will include a name, email, subject and message fields within the form.</li>
 		</ul>
 		<img src="Lucy.jpg" alt = "Lucy at rest">
 
