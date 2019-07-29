@@ -18,11 +18,11 @@
 				</ul>
 			</div>
 
-			<h2>Section 2</h2>
+			<h2>Gallery</h2>
 		<ul>
 			<li>Section 2 will be a scrollable gallery that can be scaled from mobile to desktop. The gallery will include 4 still photos and 2 gifs or loops showing movement.</li>
 		</ul>
-			<h2>Section 3</h2>
+			<h2>Contact Me</h2>
 		<ul>
 			<li>Section 3 will be the contact me form section. This will include a name, email, subject and message fields within the form.</li>
 		</ul>
