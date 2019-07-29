@@ -7,7 +7,7 @@
 	<body>
 		<h1>MY PWP JOHN DUNN</h1>
 		<br>
-		<h1>Content Strategy</h1>
+		<h2>Content Strategy</h2>
 		<ul>
 			<li>This site will be on one page providing my dog with an outlet on the internet to reach her relatives in Texas. I will have some text introducing folks to Lucy and her life of leisure.</li>
 		</ul>
