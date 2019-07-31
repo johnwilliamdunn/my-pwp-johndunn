@@ -33,7 +33,7 @@
 			</li>
 		</ul>
 		<img src="images/PWP.png" alt="Wireframes">
-		<img src="images/PWPmobile.png" alt="Mobile Wireframe">
+		<img src="images/PWP-mobile.png" alt="Mobile Wireframe">
 
 	</body>
 </html>
