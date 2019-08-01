@@ -7,3 +7,12 @@ Purpose, Audience, and Goal are clear and concise. I understand your intention f
 Your project and files are all set up to spec. Your code may need some clean up. There should not be any inline styling. I noticed a few height & width adjustments on your image tags. Also, the closing li tags should be at the end of every line. It does not need to be on a new line.
 
 Your Milestone 1 passes at Tier III. You are now clear to begin work on Milestone 2α.
+
+
+## Milestone 2a Feedback
+
+Your content strategy and wire frames are simple and easy to understand. 
+There were no errors in the html.
+Keep up the good work.
+
+Milestone 2a Grade Tier 3
