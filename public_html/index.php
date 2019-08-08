@@ -41,7 +41,7 @@
 <!--		adding gallery section-->
 		<div class="row">
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="dogcat.jpg" data-fancybox="gallery" data-caption=""this is a cat 001">
+				<a href="img/dogcat.jpg" data-fancybox="gallery" data-caption=""this is a cat 001">
 				<img class=""img-fluid">
 				</a>
 			</div>
