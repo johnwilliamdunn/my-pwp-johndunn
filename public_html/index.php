@@ -42,49 +42,49 @@
 		<div class="row">
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogcat-full.jpg" data-fancybox="gallery" data-caption="this is Lucy 001">
-					<img src="images/dog-cat-tn.jpg" alt="dog 001" class="img-fluid">
+				<a href="images/dogcat-full.jpg" data-fancybox="gallery" data-caption="Lucy 001">
+					<img src="images/dog-cat-tn.jpg" alt="Lucy 001" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogshadow-full.jpg" data-fancybox="gallery" data-caption="this is Lucy 002">
-					<img src="images/dogshadow-tn.jpg" alt="dog 002" class="img-fluid">
+				<a href="images/dogshadow-full.jpg" data-fancybox="gallery" data-caption="Lucy 002">
+					<img src="images/dogshadow-tn.jpg" alt="Lucy 002" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogsunfull.jpg" data-fancybox="gallery" data-caption="this is Lucy 003">
-					<img src="images/dogsun.jpg" alt="dog 003" class="img-fluid">
+				<a href="images/dogsun-full.jpg" data-fancybox="gallery" data-caption="Lucy 003">
+					<img src="images/dogsun-tn.jpg" alt="Lucy 003" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogsandfull.jpg" data-fancybox="gallery" data-caption="this is Lucy 004">
-					<img src="images/dogsand.jpg" alt="dog 004" class="img-fluid">
+				<a href="images/dogsand-full.jpg" data-fancybox="gallery" data-caption="Lucy 004">
+					<img src="images/dogsand-tn.jpg" alt="Lucy 004" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="img/full/cat-005.jpg" data-fancybox="gallery" data-caption="this is cat 005">
-					<img src="img/tn/cat-005-tn.jpg" alt="cat 005" class="img-fluid">
+				<a href="images/dogsheet-full.JPG" data-fancybox="gallery" data-caption="Lucy 005">
+					<img src="images/dogsheet-tn.JPG" alt="Lucy 005" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="img/full/cat-006.jpg" data-fancybox="gallery" data-caption="this is cat 006">
-					<img src="img/tn/cat-006-tn.jpg" alt="cat 006" class="img-fluid">
+				<a href="images/dogtree-full.JPG" data-fancybox="gallery" data-caption="Lucy 006">
+					<img src="images/dogtree-tn.JPG" alt="Lucy 006" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="img/full/cat-007.jpg" data-fancybox="gallery" data-caption="this is cat 007">
-					<img src="img/tn/cat-007-tn.jpg" alt="cat 007" class="img-fluid">
+				<a href="images/dognose-full.JPG" data-fancybox="gallery" data-caption="Lucy 007">
+					<img src="images/dognose-tn.JPG" alt="Lucy 007" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="img/full/cat-008.jpg" data-fancybox="gallery" data-caption="this is cat 008">
-					<img src="img/tn/cat-008-tn.jpg" alt="cat 008" class="img-fluid">
+				<a href="images/dogsleep-full.jpg" data-fancybox="gallery" data-caption="Lucy 008">
+					<img src="images/dogsleep-tn.jpg" alt="Lucy 008" class="img-fluid">
 				</a>
 			</div>
