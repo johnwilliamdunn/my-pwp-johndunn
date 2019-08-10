@@ -42,14 +42,14 @@
 		<div class="row">
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogcatfull.jpg" data-fancybox="gallery" data-caption="this is Lucy 001">
-					<img src="images/dogcat.jpg" alt="dog 001" class="img-fluid">
+				<a href="images/dogcat-full.jpg" data-fancybox="gallery" data-caption="this is Lucy 001">
+					<img src="images/dog-cat-tn.jpg" alt="dog 001" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogshadowfull.jpg" data-fancybox="gallery" data-caption="this is Lucy 002">
-					<img src="images/dogshadow.jpg" alt="dog 002" class="img-fluid">
+				<a href="images/dogshadow-full.jpg" data-fancybox="gallery" data-caption="this is Lucy 002">
+					<img src="images/dogshadow-tn.jpg" alt="dog 002" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
@@ -62,5 +62,29 @@
 			<div class="col-6 col-lg-3 mb-3">
 				<a href="images/dogsandfull.jpg" data-fancybox="gallery" data-caption="this is Lucy 004">
 					<img src="images/dogsand.jpg" alt="dog 004" class="img-fluid">
+				</a>
+			</div>
+			<!-- begin gallery item -->
+			<div class="col-6 col-lg-3 mb-3">
+				<a href="img/full/cat-005.jpg" data-fancybox="gallery" data-caption="this is cat 005">
+					<img src="img/tn/cat-005-tn.jpg" alt="cat 005" class="img-fluid">
+				</a>
+			</div>
+			<!-- begin gallery item -->
+			<div class="col-6 col-lg-3 mb-3">
+				<a href="img/full/cat-006.jpg" data-fancybox="gallery" data-caption="this is cat 006">
+					<img src="img/tn/cat-006-tn.jpg" alt="cat 006" class="img-fluid">
+				</a>
+			</div>
+			<!-- begin gallery item -->
+			<div class="col-6 col-lg-3 mb-3">
+				<a href="img/full/cat-007.jpg" data-fancybox="gallery" data-caption="this is cat 007">
+					<img src="img/tn/cat-007-tn.jpg" alt="cat 007" class="img-fluid">
+				</a>
+			</div>
+			<!-- begin gallery item -->
+			<div class="col-6 col-lg-3 mb-3">
+				<a href="img/full/cat-008.jpg" data-fancybox="gallery" data-caption="this is cat 008">
+					<img src="img/tn/cat-008-tn.jpg" alt="cat 008" class="img-fluid">
 				</a>
 			</div>
