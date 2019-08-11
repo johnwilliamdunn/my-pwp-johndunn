@@ -24,6 +24,10 @@
 <!--		adding Page Header-->
 		<header class="bg-primary py-2 text white">
 			<div class="container">
+				<div class="row mx-md-n5">
+					<div class="col px-md-5"><div class="p-3 bg-primary"></div></div>
+					<div class="col px-md-5"><div class="p-3 bg-primary"></div></div>
+				</div>
 				<span class="border-top"></span>
 				<h2>Lucy's Life</h2>
 			</div>
