@@ -24,6 +24,7 @@
 <!--		adding Page Header-->
 		<header class="bg-primary py-4 text white">
 			<div class="container">
+				<div class="shadow-lg p-3 mb-5 bg-white rounded"></div>
 				<h2>Lucy's Life</h2>
 			</div>
 		</header>
