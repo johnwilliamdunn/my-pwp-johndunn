@@ -71,8 +71,8 @@
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogsheet-full.JPG" data-fancybox="gallery" data-caption="Lucy 005">
-					<img src="images/dogsheet-tn.JPG" alt="Lucy 005" class="img-fluid">
+				<a href="images/dogcovers-full.jpg" data-fancybox="gallery" data-caption="Lucy 005">
+					<img src="images/dogcovers-tn.jpg" alt="Lucy 005" class="img-fluid">
 				</a>
 			</div>
 			<!-- begin gallery item -->
@@ -89,8 +89,8 @@
 			</div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogsleep-full.jpg" data-fancybox="gallery" data-caption="Lucy 008">
-					<img src="images/dogsleep-tn.jpg" alt="Lucy 008" class="img-fluid">
+				<a href="images/dogears-full.jpg" data-fancybox="gallery" data-caption="Lucy 008">
+					<img src="images/dogears-tn.jpg" alt="Lucy 008" class="img-fluid">
 				</a>
 			</div>
 		</div>
