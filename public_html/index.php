@@ -44,7 +44,7 @@
 			</div>
 		</section>
 <!--		adding gallery section-->
-		<div class="row">
+		<div class="row"></div>
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
 				<a href="images/dogcat-full.jpg" data-fancybox="gallery" data-caption="Lucy 001">
