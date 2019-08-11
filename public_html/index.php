@@ -22,9 +22,9 @@
 	</head>
 	<body>
 <!--		adding Page Header-->
-		<header class="bg-primary py-4 text white">
+		<header class="bg-primary py-2 text white">
 			<div class="container">
-				<div class="shadow-lg p-3 mb-5 bg-white rounded"></div>
+				<span class="border-top"></span>
 				<h2>Lucy's Life</h2>
 			</div>
 		</header>
