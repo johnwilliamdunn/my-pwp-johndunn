@@ -4,7 +4,10 @@
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+<!--		adding custom font-->
+		<link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
+<!--		font awesome-->
+		<script src="https://kit.fontawesome.com/91ee8a26ec.js"></script>
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <!--		FancyBox script-->
@@ -17,17 +20,22 @@
 <!--		FancyBox 3-->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+		<link rel="stylesheet" href="css/style.css">
 		<title>Lucy's Life</title>
 	</head>
 	<body>
 <!--		adding Page Header-->
-		<header class="bg-primary py-2 text white">
-			<div class="container"></div>
-			<div class="row mx-md-n5"></div>
-			<img src="cartoonLu.png"
-					<div class="col px-md-5"><div class="p-3 bg-primary"></div></div>
-				<span class="border-top"></span>
-				<h2>Lucy's Life</h2>
+		<header class="bg-primary py-2">
+			<div class="container">
+				<!-- Image and text -->
+				<nav class="navbar navbar-dark">
+					<a class="navbar-brand" href="#">
+						<img src="images/cartoonLu.jpg" width="100" height="100" class="d-inline-block align-top" alt="cartoon lu">
+						Lucy's Life
+					</a>
+				</nav>
+
+			</div>
 		</header>
 <!--		adding content section-->
 		<section class="py-5">
@@ -41,57 +49,70 @@
 			</div>
 		</section>
 <!--		adding gallery section-->
-		<section class="container">
-		<div class="row">
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogcat-full.jpg" data-fancybox="gallery" data-caption="Lucy 001">
-					<img src="images/dog-cat-tn.jpg" alt="Lucy 001" class="img-fluid">
-				</a>
+		<section class="py-5">
+			<div class="container">
+				<div class="row">
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dogcat-full.jpg" data-fancybox="gallery" data-caption="Lucy 001">
+							<img src="images/dog-cat-tn.jpg" alt="Lucy 001" class="img-fluid">
+						</a>
+					</div>
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dogshadow-full.jpg" data-fancybox="gallery" data-caption="Lucy 002">
+							<img src="images/dogshadow-tn.jpg" alt="Lucy 002" class="img-fluid">
+						</a>
+					</div>
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dogsun-full.jpg" data-fancybox="gallery" data-caption="Lucy 003">
+							<img src="images/dogsun-tn.jpg" alt="Lucy 003" class="img-fluid">
+						</a>
+					</div>
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dogsand-full.jpg" data-fancybox="gallery" data-caption="Lucy 004">
+							<img src="images/dogsand-tn.jpg" alt="Lucy 004" class="img-fluid">
+						</a>
+					</div>
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dogcovers-full.jpg" data-fancybox="gallery" data-caption="Lucy 005">
+							<img src="images/dogcovers-tn.jpg" alt="Lucy 005" class="img-fluid">
+						</a>
+					</div>
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dogtree-full.JPG" data-fancybox="gallery" data-caption="Lucy 006">
+							<img src="images/dogtree-tn.JPG" alt="Lucy 006" class="img-fluid">
+						</a>
+					</div>
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dognose-full.JPG" data-fancybox="gallery" data-caption="Lucy 007">
+							<img src="images/dognose-tn.JPG" alt="Lucy 007" class="img-fluid">
+						</a>
+					</div>
+					<!-- begin gallery item -->
+					<div class="col-6 col-lg-3 mb-3">
+						<a href="images/dogears-full.jpg" data-fancybox="gallery" data-caption="Lucy 008">
+							<img src="images/dogears-tn.jpg" alt="Lucy 008" class="img-fluid">
+						</a>
+					</div>
+				</div>
 			</div>
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogshadow-full.jpg" data-fancybox="gallery" data-caption="Lucy 002">
-					<img src="images/dogshadow-tn.jpg" alt="Lucy 002" class="img-fluid">
-				</a>
-			</div>
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogsun-full.jpg" data-fancybox="gallery" data-caption="Lucy 003">
-					<img src="images/dogsun-tn.jpg" alt="Lucy 003" class="img-fluid">
-				</a>
-			</div>
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogsand-full.jpg" data-fancybox="gallery" data-caption="Lucy 004">
-					<img src="images/dogsand-tn.jpg" alt="Lucy 004" class="img-fluid">
-				</a>
-			</div>
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogcovers-full.jpg" data-fancybox="gallery" data-caption="Lucy 005">
-					<img src="images/dogcovers-tn.jpg" alt="Lucy 005" class="img-fluid">
-				</a>
-			</div>
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogtree-full.JPG" data-fancybox="gallery" data-caption="Lucy 006">
-					<img src="images/dogtree-tn.JPG" alt="Lucy 006" class="img-fluid">
-				</a>
-			</div>
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dognose-full.JPG" data-fancybox="gallery" data-caption="Lucy 007">
-					<img src="images/dognose-tn.JPG" alt="Lucy 007" class="img-fluid">
-				</a>
-			</div>
-			<!-- begin gallery item -->
-			<div class="col-6 col-lg-3 mb-3">
-				<a href="images/dogears-full.jpg" data-fancybox="gallery" data-caption="Lucy 008">
-					<img src="images/dogears-tn.jpg" alt="Lucy 008" class="img-fluid">
-				</a>
-			</div>
-		</div>
 			</section>
+<!--		contact form sectiobn-->
+		<section class="py-5">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4 offset-lg-4">
+						placeholder for form
+					</div>
+				</div>
+			</div>
+		</section>
+
 	</body>
 </html>
