@@ -24,7 +24,7 @@
 		<header class="bg-primary py-2 text white">
 			<div class="container"></div>
 			<div class="row mx-md-n5"></div>
-					<div class="col px-md-5"><div class="p-3 bg-primary"></div></div>
+			<img src="cartoonLu.png"
 					<div class="col px-md-5"><div class="p-3 bg-primary"></div></div>
 				<span class="border-top"></span>
 				<h2>Lucy's Life</h2>
@@ -41,6 +41,7 @@
 			</div>
 		</section>
 <!--		adding gallery section-->
+		<section class="container">
 		<div class="row">
 			<!-- begin gallery item -->
 			<div class="col-6 col-lg-3 mb-3">
@@ -91,5 +92,6 @@
 				</a>
 			</div>
 		</div>
+			</section>
 	</body>
 </html>
