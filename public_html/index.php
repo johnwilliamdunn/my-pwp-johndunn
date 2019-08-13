@@ -173,13 +173,10 @@
 									<div id="output-area"></div>
 								</div>
 							</div>
-
-
 						</div>
 					</div>
 				</div>
 			</section>
 <
-
 	</body>
 </html>
