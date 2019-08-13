@@ -1,6 +1,6 @@
 language: php
 before_script:
-- composer install --dev --no-interaction
+- php install --dev --no-interaction
 - cd test/unit
 script:
 - ../../vendor/bin/phpunit . --bootstrap bootstrap.php --filter test* --coverage-clover=coverage.xml

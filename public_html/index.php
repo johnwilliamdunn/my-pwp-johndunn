@@ -40,7 +40,7 @@
 				<!-- Image and text -->
 				<nav class="navbar navbar-dark">
 					<a class="navbar-brand" href="#">
-						<img src="images/cartoonLu.jpg" width="100" height="100" class="d-inline-block align-top" alt="cartoon lu">
+						<img src="images/lucycartoon(1).jpg" width="100" height="100" class="rounded-circle align-top" alt="cartoon lu">
 						Lucy's Life
 					</a>
 				</nav>

@@ -1,6 +1,6 @@
 <?php
 /**
- * Allows us to include one file instead of two when working without composer.
+ * Allows us to include one file instead of two when working without php.
  *
  * PHP Version - 5.6, 7.0, 7.1, 7.2
  *

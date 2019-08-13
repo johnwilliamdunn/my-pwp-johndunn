@@ -13,21 +13,21 @@ php:
   - '7.3'
 
 before_script:
-  - composer install
+  - php install
   - phpenv version-name | grep ^5.[34] && echo "extension=apc.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini ; true
   - phpenv version-name | grep ^5.[34] && echo "apc.enable_cli=1" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini ; true
 
 script:
   - mkdir -p build/logs
-  - composer run-script lint
-  - composer run-script test
+  - php run-script lint
+  - php run-script test
 
 after_success:
   - travis_retry php vendor/bin/php-coveralls
 
 cache:
   directories:
-    - "$HOME/.composer/cache/files"
+    - "$HOME/.php/cache/files"
 
 git:
   depth: 5
