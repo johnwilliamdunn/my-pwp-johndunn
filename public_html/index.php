@@ -103,7 +103,7 @@
 				</div>
 			</div>
 			</section>
-<!--		contact form sectiobn-->
+<!--		contact form section-->
 		<section class="py-5">
 			<div class="container">
 				<div class="row">
@@ -113,7 +113,7 @@
 								<label for="contactLucy">Lucy <span class="text-danger">*</span></label>
 								<div class="input-group">
 									<div class="input-group-prepend">
-										<span class="input-gropu-text"></span>
+										<span class="input-group-text"></span>
 										<i class="fa fa-user" aria-hidden="true"></i>
 									</div>
 									<input type="text" class="form-control" id="contactLucy" name="contactLucy" placeholder="Lucy">
@@ -127,8 +127,11 @@
 										<i class="fa fa-envelope" aria-hidden="true"></i>
 									</div>
 								</div>
-								
+								<input type="email" class="form-control" id="contactLucyEmail" name="contactLucyEmail" placeholder="Email">
 							</div>
+					</div>
+					<div class="form-group">
+						<label for="contactLucySubject">Subject</label>
 					</div>
 				</div>
 			</div>
