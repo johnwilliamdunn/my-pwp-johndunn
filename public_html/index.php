@@ -108,7 +108,20 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 offset-lg-4">
-						placeholder for form
+						<form id="Lucys-contact-form" action="php/mailer.php" method="post">
+							<div class="form-group">
+								<label for="contactLucy">Lucy <span class="text-danger">*</span></label>
+								<div class="input-group">
+									<div class="input-group-prepend">
+										<span class="input-gropu-text"></span>
+										<i class="fa fa-user" aria-hidden="true"></i>
+									</div>
+									<input type="text" class="form-control" id="contactLucy" name="contactLucy" placeholder="Lucy">
+								</div>
+							</div>
+							<div class="form-group">
+								
+							</div>
 					</div>
 				</div>
 			</div>
