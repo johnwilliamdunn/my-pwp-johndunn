@@ -132,6 +132,13 @@
 					</div>
 					<div class="form-group">
 						<label for="contactLucySubject">Subject</label>
+						<div class="input-group">
+							<div class="input-group-prepend">
+								<span class="input-group-text"></span>
+								<i class="fa fa-comment" aria-hidden="true"></i>
+							</div>
+							<textarea rows="10"></textarea>
+						</div>
 					</div>
 				</div>
 			</div>
