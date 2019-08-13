@@ -138,7 +138,7 @@
 								<input type="email" class="form-control" id="contactLucyEmail" name="contactLucyEmail" placeholder="Email">
 							</div>
 					</div>
-					<div class="container"></div>
+					<div class="container">
 					<div class="form-group">
 						<label for="contactLucySubject">Subject</label>
 						<div class="input-group">
@@ -149,11 +149,14 @@
 							<textarea class="form-control" rows="5" id="contactLucyMessage" name="contactLucyMessage" placeholder="I <3 Lucy :D~ (2000 char max)"></textarea>
 						</div>
 					</div>
+					</div>
 <!--			reCaptcha		-->
-					<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+					<div class="container">
+					<div class="g-recaptcha" data-sitekey="--6Lfw4LIUAAAAAAeiYeEiumR7prnFi0Lml9wvCWlU--"></div>
 					<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i>Send</button>
 					<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i>Reset</button>
 					</form>
+					</div>
 <!--			empty area for form error/success output-->
 					<div class="row">
 						<div class="col-xs-12">
