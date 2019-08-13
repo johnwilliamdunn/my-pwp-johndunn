@@ -120,6 +120,13 @@
 								</div>
 							</div>
 							<div class="form-group">
+								<label for="contactLucyEmail">Email <span class="text-danger">*</span></label>
+								<div class="input-group">
+									<div class="input-group-prepend">
+										<span class="input-group-text"></span>
+										<i class="fa fa-envelope" aria-hidden="true"></i>
+									</div>
+								</div>
 								
 							</div>
 					</div>
