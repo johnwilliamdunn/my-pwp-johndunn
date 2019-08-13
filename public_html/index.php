@@ -137,11 +137,23 @@
 								<span class="input-group-text"></span>
 								<i class="fa fa-comment" aria-hidden="true"></i>
 							</div>
-							<textarea rows="10"></textarea>
+							<textarea class="form-control" rows="5" id="contactLucyMessage" name="contactLucyMessage" placeholder="I <3 Lucy :D~ (2000 char max)"></textarea>
 						</div>
 					</div>
+<!--			reCaptcha		-->
+					<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+					<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i>Send</button>
+					<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i>Reset</button>
 				</div>
 			</div>
+				</form>
+<!--			empty area for form error/success output-->
+					<div class="row">
+						<div class="col-xs-12">
+							<div id="output-area"></div>
+						</div>
+					</div>
+
 		</section>
 
 	</body>
