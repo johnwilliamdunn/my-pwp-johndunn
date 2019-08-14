@@ -8,6 +8,9 @@
 		<link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
 <!--		font awesome-->
 		<script src="https://kit.fontawesome.com/91ee8a26ec.js"></script>
+<!--		jquery library-->
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+			integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="crossorigin="anonymous"></script>
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <!--		FancyBox script-->
@@ -120,7 +123,7 @@
 					<div class="col-lg-4 offset-lg-4">
 						<h2 class="text-center">Contact Lucy!</h2>
 						<!--Begin Form -->
-						<form id="lucys-form" action="php/index.php" method="post">
+						<form id="lucys-form" action="../php/index.php" method="post">
 							<div class="form-group">
 								<label for="contactLucyName">Name <span class="text-danger">*</span></label>
 								<div class="input-group">
@@ -166,7 +169,7 @@
 								</div>
 							</div>
 							<!-- reCAPTCHA -->
-							<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+							<div class="g-recaptcha" data-sitekey="6Lfw4LIUAAAAAAeiYeEiumR7prnFi0Lml9wvCWlU"></div>
 							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 						</form>
