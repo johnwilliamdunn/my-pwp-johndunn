@@ -53,7 +53,7 @@
 				<div class="card-body">
 					<div class="card-text">
 						Lucy's Life of Leisure
-						<p>Mr. Worf, you do remember how to fire phasers? In all trust, there is the possibility for betrayal. They were just sucked into space. Could someone survive inside a transporter buffer for 75 years? I'd like to think that I haven't changed those things, sir. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. Maybe if we felt any human loss as keenly as we feel one of those close to us, human history would be far less bloody. I think you've let your personal feelings cloud your judgement. Now we know what they mean by 'advanced' tactical training. I suggest you drop it, Mr. Data. I am your worst nightmare! But the probability of making a six is no greater than that of rolling a seven. You bet I'm agitated! I may be surrounded by insanity, but I am not insane.</p>
+						<p>l. They were just sucked into space. Could someone survive inside a transporter buffer for 75 years? I'd like to think that I haven't changed those things, sir. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. Maybe if we felt any human loss as keenly as we feel one of those close to us, human history would be far less bloody. I think you've let your personal feelings cloud your judgement. Now we know what they mean by 'advanced' tactical training. I suggest you drop it, Mr. Data. I am your worst nightmare! But the probability of making a six is no greater than that of rolling a seven. You bet I'm agitated! I may be surrounded by insanity, but I am not insane.</p>
 					</div>
 				</div>
 			</div>
