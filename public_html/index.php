@@ -51,11 +51,11 @@
 			</div>
 		</header>
 <!--		adding content section-->
-		<section class="py-5">
+		<section class="py-5 text-section">
 			<div class="container">
 				<div class="card-body">
 					<div class="card-text">
-						<h2>Lucy's Life of Leisure</h2>
+						<h2 class="text-primary">Lucy's Life of Leisure</h2>
 						<p>Welcome to Lucy's life of leisure, where a normal day revolves around activities like, chasing the neighborhood cats, sunning myself, chewing my Kong Ball and going on walks in the dog park. I didn't always have it so easy, I was born a Chihuahua in the deserts of Southern New Mexico where I was left on the side of the road. Luckily someone found me and took me in, I ended up at a lapdog rescue in the East Mountains, it's too cold for my tastes in the East Mountains. I came to meet the Dunn clan after I was put up for adoption by the lapdog rescue. At first they thought I was a terrier when they saw my picture, HA! I fooled them! Suckers! Once they met me they realized my Chihuahua pedigree was strong and I only lay my ears down in pictures. Once they met me of course they couldn't send me back because I'm so cute! Thus began Lucy's life of leisure.</p>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 			</div>
 			</section>
 <!--		contact form section-->
-		<section class="bg-primary py-5">
+		<section class="bg-primary py-5 contact-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 offset-lg-4">

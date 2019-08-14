@@ -10,6 +10,15 @@ a.navbar-brand {
 	}
 }
 
-#contact-Lucy {
+.contact-section h2,
+.contact-section label {
 	color: gold;
+}
+
+.contact-section h2 {
+	font-family: 'Permanent Marker', cursive;
+}
+
+.text-section h2 {
+	font-family: 'Permanent Marker', cursive;
 }
