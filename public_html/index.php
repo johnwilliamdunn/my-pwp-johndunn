@@ -114,7 +114,7 @@
 			</div>
 			</section>
 <!--		contact form section-->
-		<section class="py-5">
+		<section class="bg-primary py-5">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 offset-lg-4">
