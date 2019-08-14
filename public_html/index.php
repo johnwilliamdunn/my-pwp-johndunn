@@ -132,7 +132,7 @@
 											<i class="fa fa-user" aria-hidden="true"></i>
 										</div>
 									</div>
-									<input type="text" class="form-control" id="contactLucy" name="contactLucy" placeholder="Name">
+									<input type="text" class="form-control" id="lucys-form" name="name" placeholder="Name">
 								</div>
 							</div>
 							<div class="form-group">
@@ -143,7 +143,7 @@
 											<i class="fa fa-envelope" aria-hidden="true"></i>
 										</div>
 									</div>
-									<input type="email" class="form-control" id="contactLucyEmail" name="contactLucyEmail" placeholder="Email">
+									<input type="email" class="form-control" id="lucys-form" name="Email" placeholder="Email">
 								</div>
 							</div>
 							<div class="form-group">
@@ -154,7 +154,7 @@
 											<i class="fa fa-pencil" aria-hidden="true"></i>
 										</div>
 									</div>
-									<input type="text" class="form-control" id="contactLucySubject" name="contactLucySubject" placeholder="Subject">
+									<input type="text" class="form-control" id="lucys-form" name="Subject" placeholder="Subject">
 								</div>
 							</div>
 							<div class="form-group">
@@ -165,11 +165,11 @@
 											<i class="fa fa-comment" aria-hidden="true"></i>
 										</div>
 									</div>
-									<textarea class="form-control" rows="5" id="contactLucyMessage" name="contactLucyMessage" placeholder="I <3 Lucy (2000 characters max)"></textarea>
+									<textarea class="form-control" rows="5" id="lucys-form" name="Message" placeholder="I <3 Lucy (2000 characters max)"></textarea>
 								</div>
 							</div>
 							<!-- reCAPTCHA -->
-							<div class="g-recaptcha" data-sitekey="6Lfw4LIUAAAAAAeiYeEiumR7prnFi0Lml9wvCWlU"></div>
+							<div class="g-recaptcha" data-sitekey="6LdVCrMUAAAAAAgKWHsIwZyYqSPIpDuAgqG5k-Sj"></div>
 							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 						</form>
