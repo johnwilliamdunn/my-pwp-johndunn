@@ -120,7 +120,7 @@
 					<div class="col-lg-4 offset-lg-4">
 						<h2 class="text-center">Contact Lucy!</h2>
 						<!--Begin Form -->
-						<form id="lucys-form" action="php/mailer.php" method="post">
+						<form id="lucys-form" action="php/index.php" method="post">
 							<div class="form-group">
 								<label for="contactLucyName">Name <span class="text-danger">*</span></label>
 								<div class="input-group">
