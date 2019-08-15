@@ -123,7 +123,7 @@
 					<div class="col-lg-4 offset-lg-4">
 						<h2 class="text-center">Contact Lucy!</h2>
 						<!--Begin Form -->
-						<form id="demo-form" action="../php/index.php" method="post">
+						<form id="johns-demo-form" action="../php/index.php" method="post">
 							<div class="form-group">
 								<label for="contactDemoName">Name <span class="text-danger">*</span></label>
 								<div class="input-group">
@@ -132,7 +132,7 @@
 											<i class="fa fa-user" aria-hidden="true"></i>
 										</div>
 									</div>
-									<input type="text" class="form-control" id="demo-form" name="name" placeholder="Name">
+									<input type="text" class="form-control" id="contactDemoName" name="contactDemoName" placeholder="Name">
 								</div>
 							</div>
 							<div class="form-group">
@@ -143,7 +143,7 @@
 											<i class="fa fa-envelope" aria-hidden="true"></i>
 										</div>
 									</div>
-									<input type="email" class="form-control" id="demo-form" name="Email" placeholder="Email">
+									<input type="email" class="form-control" id="contactDemoEmail" name="contactDemoEmail" placeholder="Email">
 								</div>
 							</div>
 							<div class="form-group">
@@ -154,7 +154,7 @@
 											<i class="fa fa-pencil" aria-hidden="true"></i>
 										</div>
 									</div>
-									<input type="text" class="form-control" id="demo-form" name="Subject" placeholder="Subject">
+									<input type="text" class="form-control" id="contactDemoSubject" name="contactDemoSubject" placeholder="Subject">
 								</div>
 							</div>
 							<div class="form-group">
@@ -165,7 +165,7 @@
 											<i class="fa fa-comment" aria-hidden="true"></i>
 										</div>
 									</div>
-									<textarea class="form-control" rows="5" id="demo-form" name="Message" placeholder="I <3 Lucy (2000 characters max)"></textarea>
+									<textarea class="form-control" rows="5" id="contactDemoMessage" name="contactDemoMessage" placeholder="I <3 Lucy (2000 characters max)"></textarea>
 								</div>
 							</div>
 							<!-- reCAPTCHA -->

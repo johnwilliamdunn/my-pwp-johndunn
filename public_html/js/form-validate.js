@@ -13,7 +13,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#demo-form").validate({
+	$("#johns-demo-form").validate({
 
 		// setup handling of form errors
 		debug: true,
@@ -54,9 +54,9 @@ $(document).ready(function(){
 
 		// AJAX submit the form data to back end if rules pass
 		submitHandler: function(form) {
-			$("#demo-form").ajaxSubmit({
+			$("#johns-demo-form").ajaxSubmit({
 				type: "POST",
-				url: $("#demo-form").attr("action"),
+				url: $("#johns-demo-form").attr("action"),
 
 				success: function(ajaxOutput) {
 					// clear the output area's formatting
@@ -67,7 +67,7 @@ $(document).ready(function(){
 
 					// reset the form if it was successful
 					if($(".alert-success").length >= 1) {
-						$("#demo-form")[0].reset();
+						$("#johns-demo-form")[0].reset();
 					}
 				}
 			})
