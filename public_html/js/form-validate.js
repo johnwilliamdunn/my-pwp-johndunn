@@ -13,7 +13,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#lucys-form").validate({
+	$("#demo-form").validate({
 
 		// setup handling of form errors
 		debug: true,
@@ -24,14 +24,14 @@ $(document).ready(function(){
 		// rules here define what is good or bad input
 		// each rule starts with the form input element's NAME attribute
 		rules: {
-			contactLucyName: {
+			contactDemoName: {
 				required: true
 			},
-			contactLucyEmail: {
+			contactDemoEmail: {
 				email: true,
 				required: true
 			},
-			contactLucyMessage: {
+			contactDemoMessage: {
 				required: true,
 				maxlength: 2000
 			}
@@ -39,14 +39,14 @@ $(document).ready(function(){
 
 		// error messages to display to the end user when rules above don't pass
 		messages: {
-			contactLucyName: {
+			contactDemoName: {
 				required: "Please enter your name."
 			},
-			contactLucyEmail: {
+			contactDemoEmail: {
 				email: "Please enter a valid email address.",
 				required: "Please enter a valid email address."
 			},
-			contactLucyMessage: {
+			contactDemoMessage: {
 				required: "Please enter a message.",
 				maxlength: "2000 characters max."
 			}
@@ -54,9 +54,9 @@ $(document).ready(function(){
 
 		// AJAX submit the form data to back end if rules pass
 		submitHandler: function(form) {
-			$("#lucys-form").ajaxSubmit({
+			$("#demo-form").ajaxSubmit({
 				type: "POST",
-				url: $("#lucys-form").attr("action"),
+				url: $("#demo-form").attr("action"),
 
 				success: function(ajaxOutput) {
 					// clear the output area's formatting
@@ -67,7 +67,7 @@ $(document).ready(function(){
 
 					// reset the form if it was successful
 					if($(".alert-success").length >= 1) {
-						$("#lucys-form")[0].reset();
+						$("#demo-form")[0].reset();
 					}
 				}
 			})

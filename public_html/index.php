@@ -123,9 +123,9 @@
 					<div class="col-lg-4 offset-lg-4">
 						<h2 class="text-center">Contact Lucy!</h2>
 						<!--Begin Form -->
-						<form id="lucys-form" action="../php/index.php" method="post">
+						<form id="demo-form" action="../php/index.php" method="post">
 							<div class="form-group">
-								<label for="contactLucyName">Name <span class="text-danger">*</span></label>
+								<label for="contactDemoName">Name <span class="text-danger">*</span></label>
 								<div class="input-group">
 									<div class="input-group-prepend">
 										<div class="input-group-text">
@@ -136,7 +136,7 @@
 								</div>
 							</div>
 							<div class="form-group">
-								<label for="contactLucyEmail">Email <span class="text-danger">*</span></label>
+								<label for="contactDemoEmail">Email <span class="text-danger">*</span></label>
 								<div class="input-group">
 									<div class="input-group-prepend">
 										<div class="input-group-text">
@@ -147,7 +147,7 @@
 								</div>
 							</div>
 							<div class="form-group">
-								<label for="contactLucySubject">Subject</label>
+								<label for="contactDemoSubject">Subject</label>
 								<div class="input-group">
 									<div class="input-group-prepend">
 										<div class="input-group-text">
@@ -158,7 +158,7 @@
 								</div>
 							</div>
 							<div class="form-group">
-								<label for="contactLucyMessage">Message <span class="text-danger">*</span></label>
+								<label for="contactDemoMessage">Message <span class="text-danger">*</span></label>
 								<div class="input-group">
 									<div class="input-group-prepend">
 										<div class="input-group-text">
