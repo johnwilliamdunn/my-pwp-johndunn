@@ -12,11 +12,7 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <!--		FancyBox script-->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-		<!--		jquery library-->
-		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 		<!--		Bootstrap JS-->
-		<!-- Optional JavaScript -->
-		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 		<!-- jQuery Form, Additional Methods, Validate -->
@@ -46,11 +42,10 @@
 						Lucy's Life
 					</a>
 				</nav>
-
 			</div>
 		</header>
 <!--		adding content section-->
-		<section class="py-5 text-section">
+		<section class="pt-5 text-section">
 			<div class="container">
 				<div class="card-body">
 					<div class="card-text">
@@ -114,7 +109,7 @@
 					</div>
 				</div>
 			</div>
-			</section>
+		</section>
 <!--		contact form section-->
 		<section class="bg-primary py-5 contact-section">
 			<div class="container">
